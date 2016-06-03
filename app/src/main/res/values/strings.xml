@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login SSO</string>
+    <string name="facebook_app_id">846476228830301</string>
+    <string name="server_client_id">341800310280-vqapeihc095p6qmselavdpg35lrr0nas.apps.googleusercontent.com</string>
+</resources>
